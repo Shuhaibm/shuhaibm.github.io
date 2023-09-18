@@ -1,0 +1,26 @@
+@charset "UTF-8";:root {
+    --global-theme-color: #341f97;
+}
+
+html[data-theme=dark] {
+    --global-theme-color: #2698ba;
+}
+
+.container {
+    max-width: 800px
+}
+
+a,table.table a {
+    color: var(--global-theme-color)
+}
+
+.profile {
+	vertical-align: middle;
+	width: 20%;
+}
+
+
+.profile img {
+	width: 90%;
+	/* border-radius: 50%; */
+}
