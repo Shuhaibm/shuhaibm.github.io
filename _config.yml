@@ -221,7 +221,7 @@ plugins:
   - jekyll/scholar
   - jekyll-sitemap
   - jekyll-tabs
-  - jekyll-terser
+  # - jekyll-terser # disabled - requires git source
   - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
