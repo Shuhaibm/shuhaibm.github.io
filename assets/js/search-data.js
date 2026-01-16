@@ -38,7 +38,10 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "news-our-work-on-user-simulator-goal-alignment-has-been-accepted-to-tacl",
+      },{id: "news-i-was-awarded-the-mitacs-accelerate-fellowship-for-master-s-and-phd-students-as-an-undergrad-really-excited-to-start-working-with-iclinic-systems-inc",
+          title: 'I was awarded the Mitacs Accelerate Fellowship for Master’s and PhD Students as...',
+          description: "",
+          section: "News",},{id: "news-our-work-on-user-simulator-goal-alignment-has-been-accepted-to-tacl",
           title: 'Our work on user simulator goal alignment has been accepted to TACL!',
           description: "",
           section: "News",},{id: "news-came-full-circle-with-a-visit-to-the-ubc-nlp-group-where-my-research-journey-began-and-gave-a-talk-on-goal-alignment-for-llm-based-user-simulators",
