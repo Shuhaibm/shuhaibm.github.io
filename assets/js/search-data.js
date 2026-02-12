@@ -53,6 +53,12 @@ ninja.data = [{
           section: "News",},{id: "news-really-excited-to-release-the-preprint-for-our-work-on-improving-multi-session-collaboration-with-memory-check-it-out-here",
           title: 'Really excited to release the preprint for our work on improving multi-session collaboration...',
           description: "",
+          section: "News",},{id: "news-i-am-presenting-our-recent-preprint-learning-user-preferences-through-interaction-for-long-term-collaboration-at-the-assistive-and-inclusive-technology-workshop-today",
+          title: 'I am presenting our recent preprint Learning User Preferences Through Interaction for Long-Term...',
+          description: "",
+          section: "News",},{id: "news-excited-to-give-a-talk-at-google-research-on-user-centered-conversational-agents-i-will-cover-1-llms-that-reliably-simulate-users-during-multi-turn-conversations-and-2-agents-that-continuously-learn-user-preferences-amp-amp-improve-collaboration-across-multiple-sessions",
+          title: 'Excited to give a talk at Google Research on user-centered conversational agents! I...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
@@ -93,6 +99,6 @@ ninja.data = [{
         title: 'X',
         section: 'Socials',
         handler: () => {
-          window.open("https://twitter.com/ShuhaibMehri# your X handle", "_blank");
+          window.open("https://twitter.com/ShuhaibMehri", "_blank");
         },
       },];
