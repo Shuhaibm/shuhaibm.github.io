@@ -1,20 +1,20 @@
 metadata:
-  last_updated: '2026-02-13'
+  last_updated: '2026-03-02'
 papers:
   nJE1T2cAAAAJ:Tyk-4Ss8FVUC:
-    citations: 5
+    citations: 6
     title: Goal Alignment in LLM-Based User Simulators for Conversational AI
     year: '2025'
   nJE1T2cAAAAJ:_FxGoFyzp5QC:
-    citations: 3
+    citations: 4
     title: 'AURA: A Diagnostic Framework for Tracking User Satisfaction of Interactive Planning Agents'
     year: '2025'
   nJE1T2cAAAAJ:d1gkVwhDpl0C:
-    citations: 18
+    citations: 21
     title: 'Persuade me if you can: A framework for evaluating persuasion effectiveness and susceptibility among large language models'
     year: '2025'
   nJE1T2cAAAAJ:qjMakFHDy7sC:
-    citations: 7
+    citations: 11
     title: 'Must Read: A Systematic Survey of Computational Persuasion'
     year: '2025'
   nJE1T2cAAAAJ:roLk4NBRz8UC:
@@ -30,6 +30,6 @@ papers:
     title: Discourse Relation Recognition with Language Models Under Different Data Availability
     year: '2024'
   nJE1T2cAAAAJ:zYLM7Y9cAGgC:
-    citations: 3
+    citations: 4
     title: Automatic evaluation of generative models with instruction tuning
     year: '2023'
