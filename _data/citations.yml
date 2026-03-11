@@ -1,8 +1,12 @@
 metadata:
-  last_updated: '2026-03-02'
+  last_updated: '2026-03-11'
 papers:
+  nJE1T2cAAAAJ:Se3iqnhoufwC:
+    citations: 0
+    title: Learning User Preferences Through Interaction for Long-Term Collaboration
+    year: '2026'
   nJE1T2cAAAAJ:Tyk-4Ss8FVUC:
-    citations: 6
+    citations: 7
     title: Goal Alignment in LLM-Based User Simulators for Conversational AI
     year: '2025'
   nJE1T2cAAAAJ:_FxGoFyzp5QC:
@@ -17,10 +21,6 @@ papers:
     citations: 11
     title: 'Must Read: A Systematic Survey of Computational Persuasion'
     year: '2025'
-  nJE1T2cAAAAJ:roLk4NBRz8UC:
-    citations: 0
-    title: Learning User Preferences Through Interaction for Long-Term Collaboration
-    year: '2026'
   nJE1T2cAAAAJ:u-x6o8ySG0sC:
     citations: 0
     title: 'Beyond Sample-Level Feedback: Using Reference-Level Feedback to Guide Data Synthesis'
