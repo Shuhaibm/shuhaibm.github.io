@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-11'
+  last_updated: '2026-03-13'
 papers:
   nJE1T2cAAAAJ:Se3iqnhoufwC:
     citations: 0
@@ -9,6 +9,10 @@ papers:
     citations: 7
     title: Goal Alignment in LLM-Based User Simulators for Conversational AI
     year: '2025'
+  nJE1T2cAAAAJ:UebtZRa9Y70C:
+    citations: 0
+    title: Sparking Scientific Creativity via LLM-Driven Interdisciplinary Inspiration
+    year: Unknown Year
   nJE1T2cAAAAJ:_FxGoFyzp5QC:
     citations: 4
     title: 'AURA: A Diagnostic Framework for Tracking User Satisfaction of Interactive Planning Agents'
