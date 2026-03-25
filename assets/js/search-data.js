@@ -56,8 +56,8 @@ ninja.data = [{
           section: "News",},{id: "news-excited-to-give-a-talk-at-google-research-on-user-centered-conversational-agents-i-will-cover-1-llms-that-reliably-simulate-users-during-multi-turn-conversations-and-2-agents-that-continuously-learn-user-preferences-amp-amp-improve-collaboration-across-multiple-sessions",
           title: 'Excited to give a talk at Google Research on user-centered conversational agents! I...',
           description: "",
-          section: "News",},{id: "news-very-excited-to-virtually-attend-eacl-2026-to-give-an-oral-presentation-on-our-work-on-reference-level-feedback-i-ll-also-be-serving-as-a-session-chair-for-tuning-amp-amp-llm-behaviour",
-          title: 'Very excited to virtually attend EACL 2026 to give an oral presentation on...',
+          section: "News",},{id: "news-very-excited-to-virtually-attend-eacl-2026-i-will-be-giving-an-oral-presentation-on-our-work-on-reference-level-feedback-i-ll-also-serve-as-a-session-chair-for-tuning-amp-amp-llm-behaviour",
+          title: 'Very excited to virtually attend EACL 2026! I will be giving an oral...',
           description: "",
           section: "News",},{
         id: 'social-email',
