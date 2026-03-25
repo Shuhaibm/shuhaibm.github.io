@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-02-03
+date: 2026-02-13
 inline: true
 related_posts: false
 ---
 
-I am presenting our recent preprint [Learning User Preferences Through Interaction for Long-Term Collaboration](https://arxiv.org/abs/2601.02702) at the [Assistive and Inclusive Technology workshop](https://speechtechnology.web.illinois.edu/waitda/wait2.html) today.
+Excited to give a talk at Google Research on user-centered conversational agents! I will cover (1) LLMs that reliably simulate users during multi-turn conversations, and (2) agents that continuously learn user preferences & improve collaboration across multiple sessions.
