@@ -1,32 +1,36 @@
 metadata:
-  last_updated: '2026-03-13'
+  last_updated: '2026-04-01'
 papers:
+  nJE1T2cAAAAJ:MXK_kJrjxJIC:
+    citations: 11
+    title: 'Must Read: A Systematic Survey of Computational Persuasion'
+    year: '2025'
   nJE1T2cAAAAJ:Se3iqnhoufwC:
-    citations: 0
+    citations: 1
     title: Learning User Preferences Through Interaction for Long-Term Collaboration
     year: '2026'
   nJE1T2cAAAAJ:Tyk-4Ss8FVUC:
-    citations: 7
+    citations: 11
     title: Goal Alignment in LLM-Based User Simulators for Conversational AI
     year: '2025'
   nJE1T2cAAAAJ:UebtZRa9Y70C:
     citations: 0
     title: Sparking Scientific Creativity via LLM-Driven Interdisciplinary Inspiration
-    year: Unknown Year
+    year: '2026'
   nJE1T2cAAAAJ:_FxGoFyzp5QC:
     citations: 4
     title: 'AURA: A Diagnostic Framework for Tracking User Satisfaction of Interactive Planning Agents'
     year: '2025'
   nJE1T2cAAAAJ:d1gkVwhDpl0C:
-    citations: 21
+    citations: 23
     title: 'Persuade me if you can: A framework for evaluating persuasion effectiveness and susceptibility among large language models'
     year: '2025'
-  nJE1T2cAAAAJ:qjMakFHDy7sC:
-    citations: 11
-    title: 'Must Read: A Systematic Survey of Computational Persuasion'
-    year: '2025'
-  nJE1T2cAAAAJ:u-x6o8ySG0sC:
+  nJE1T2cAAAAJ:kNdYIx-mwKoC:
     citations: 0
+    title: 'User Preference Modeling for Conversational LLM Agents: Weak Rewards from Retrieval-Augmented Interaction'
+    year: '2026'
+  nJE1T2cAAAAJ:u-x6o8ySG0sC:
+    citations: 1
     title: 'Beyond Sample-Level Feedback: Using Reference-Level Feedback to Guide Data Synthesis'
     year: '2025'
   nJE1T2cAAAAJ:ufrVoPGSRksC:
@@ -34,6 +38,6 @@ papers:
     title: Discourse Relation Recognition with Language Models Under Different Data Availability
     year: '2024'
   nJE1T2cAAAAJ:zYLM7Y9cAGgC:
-    citations: 4
+    citations: 5
     title: Automatic evaluation of generative models with instruction tuning
     year: '2023'
