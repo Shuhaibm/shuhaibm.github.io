@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-17'
+  last_updated: '2026-04-22'
 papers:
   nJE1T2cAAAAJ:MXK_kJrjxJIC:
     citations: 11
@@ -7,7 +7,7 @@ papers:
     year: '2025'
   nJE1T2cAAAAJ:Se3iqnhoufwC:
     citations: 1
-    title: Learning User Preferences Through Interaction for Long-Term Collaboration
+    title: 'MultiSessionCollab: Learning User Preferences with Memory to Improve Long-Term Collaboration'
     year: '2026'
   nJE1T2cAAAAJ:Tyk-4Ss8FVUC:
     citations: 11
@@ -38,6 +38,6 @@ papers:
     title: Discourse Relation Recognition with Language Models Under Different Data Availability
     year: '2024'
   nJE1T2cAAAAJ:zYLM7Y9cAGgC:
-    citations: 5
+    citations: 6
     title: Automatic evaluation of generative models with instruction tuning
     year: '2023'
