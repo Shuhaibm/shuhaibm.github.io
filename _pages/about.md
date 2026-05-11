@@ -29,9 +29,10 @@ latest_posts:
 
 Hi 👋! I am a PhD Student at the University of Illinois Urbana-Champaign, advised by [Prof. Dilek Hakkani-Tur](https://scholar.google.com/citations?user=GMcL_9kAAAAJ).
 
-I am interested in building user-centered conversational agents that can handle real-world interaction. Currently, my research includes:
-- **Multi-turn interactions**: Loading... ⌛️ (I am super excited!)
-- **Multi-session interactions:** We introduced the first benchmark for multi-session collaboration, and demonstrated that equipping agents with memory can improve collaboration quality over time (through both simulated experiments and human studies) [[tweet]](https://x.com/ShuhaibMehri/status/2009307148644438517) [[paper]](https://arxiv.org/abs/2601.02702).
-- **User simulation:** We identified that user simulators struggle to consistently adhere to their assigned goals throughout multi-turn interactions, and introduced user goal state tracking to address this [[tweet]](https://x.com/ShuhaibMehri/status/1950232383380430902) [[paper]](https://arxiv.org/abs/2507.20152).
+I work on **user simulation**. Some recent highlights:
+- Introduce a method for measuring the distributional gap between real and simulated user behaviors, evaluate 24 LLM-based user simulators, and show that combining behaviorally complementary ones narrows the gap [[paper]](https://arxiv.org/abs/2605.07847).
+- First to show that user simulators in widely used benchmarks (e.g., τ-Bench) do not reliably follow their assigned goals. We introduce user goal state tracking and train goal-aligned simulators [[tweet]](https://x.com/ShuhaibMehri/status/1950232383380430902) [[paper]](https://arxiv.org/abs/2507.20152).
+  - Published in [TACL](https://transacl.org), oral presentation at [ACL 2026](https://2026.aclweb.org/).
+- Built a benchmark for multi-session collaboration, and use simulator behavior as an RL training signal for improving agent memory [[tweet]](https://x.com/ShuhaibMehri/status/2009307148644438517) [[paper]](https://arxiv.org/abs/2601.02702).
 
-Before starting my PhD, I earned my BSc in Honours Computer Science from the University of British Columbia. I was fortunate to work with [Prof. Vered Shwartz](https://scholar.google.com/citations?user=bbe4ResAAAAJ&hl=en) and [Prof. Giuseppe Carenini](https://scholar.google.com/citations?user=HNNL22kAAAAJ&hl=en). I also interned at Amazon (x3), iClinic Systems, and Clir Renewables.
+I am super excited to simulate users at [Microsoft Research](https://www.microsoft.com/en-us/research/) this summer. Previously, I have interned at [IBM Research](https://research.ibm.com/), and [Amazon](https://www.amazon.science/) (x3).
