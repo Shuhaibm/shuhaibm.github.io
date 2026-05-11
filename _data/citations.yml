@@ -1,28 +1,32 @@
 metadata:
-  last_updated: '2026-04-22'
+  last_updated: '2026-05-11'
 papers:
   nJE1T2cAAAAJ:MXK_kJrjxJIC:
-    citations: 11
+    citations: 12
     title: 'Must Read: A Systematic Survey of Computational Persuasion'
     year: '2025'
   nJE1T2cAAAAJ:Se3iqnhoufwC:
-    citations: 1
+    citations: 2
     title: 'MultiSessionCollab: Learning User Preferences with Memory to Improve Long-Term Collaboration'
     year: '2026'
   nJE1T2cAAAAJ:Tyk-4Ss8FVUC:
-    citations: 11
+    citations: 13
     title: Goal Alignment in LLM-Based User Simulators for Conversational AI
     year: '2025'
   nJE1T2cAAAAJ:UebtZRa9Y70C:
     citations: 0
     title: Sparking Scientific Creativity via LLM-Driven Interdisciplinary Inspiration
     year: '2026'
+  nJE1T2cAAAAJ:Zph67rFs4hoC:
+    citations: 0
+    title: 'PSI-Bench: Towards Clinically Grounded and Interpretable Evaluation of Depression Patient Simulators'
+    year: '2026'
   nJE1T2cAAAAJ:_FxGoFyzp5QC:
-    citations: 5
+    citations: 6
     title: 'AURA: A Diagnostic Framework for Tracking User Satisfaction of Interactive Planning Agents'
     year: '2025'
   nJE1T2cAAAAJ:d1gkVwhDpl0C:
-    citations: 25
+    citations: 27
     title: 'Persuade me if you can: A framework for evaluating persuasion effectiveness and susceptibility among large language models'
     year: '2025'
   nJE1T2cAAAAJ:kNdYIx-mwKoC:
