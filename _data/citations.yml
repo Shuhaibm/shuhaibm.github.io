@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-20'
+  last_updated: '2026-06-03'
 papers:
   nJE1T2cAAAAJ:MXK_kJrjxJIC:
-    citations: 13
+    citations: 16
     title: 'Must Read: A Systematic Survey of Computational Persuasion'
     year: '2025'
   nJE1T2cAAAAJ:Se3iqnhoufwC:
@@ -30,12 +30,12 @@ papers:
     title: 'AURA: A Diagnostic Framework for Tracking User Satisfaction of Interactive Planning Agents'
     year: '2025'
   nJE1T2cAAAAJ:d1gkVwhDpl0C:
-    citations: 29
+    citations: 30
     title: 'Persuade me if you can: A framework for evaluating persuasion effectiveness and susceptibility among large language models'
     year: '2025'
   nJE1T2cAAAAJ:kNdYIx-mwKoC:
-    citations: 1
-    title: 'User Preference Modeling for Conversational LLM Agents: Weak Rewards from Retrieval-Augmented Interaction'
+    citations: 2
+    title: 'User preference modeling for conversational llm agents: Weak rewards from retrieval-augmented interaction'
     year: '2026'
   nJE1T2cAAAAJ:u-x6o8ySG0sC:
     citations: 1
