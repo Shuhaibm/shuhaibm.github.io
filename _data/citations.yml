@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-07'
 papers:
   nJE1T2cAAAAJ:-f6ydRqryjwC:
     citations: 27
@@ -18,7 +18,7 @@ papers:
     title: 'MultiSessionCollab: Learning User Preferences with Memory to Improve Long-Term Collaboration'
     year: '2026'
   nJE1T2cAAAAJ:UebtZRa9Y70C:
-    citations: 0
+    citations: 1
     title: Sparking Scientific Creativity via LLM-Driven Interdisciplinary Inspiration
     year: '2026'
   nJE1T2cAAAAJ:YOwf2qJgpHMC:
@@ -30,7 +30,7 @@ papers:
     title: 'PSI-Bench: Towards Clinically Grounded and Interpretable Evaluation of Depression Patient Simulators'
     year: '2026'
   nJE1T2cAAAAJ:dhFuZR0502QC:
-    citations: 37
+    citations: 38
     title: 'Persuade me if you can: A framework for evaluating persuasion effectiveness and susceptibility among large language models'
     year: '2026'
   nJE1T2cAAAAJ:kNdYIx-mwKoC:
