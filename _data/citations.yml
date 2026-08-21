@@ -1,24 +1,24 @@
 metadata:
-  last_updated: '2026-08-07'
+  last_updated: '2026-08-21'
 papers:
   nJE1T2cAAAAJ:-f6ydRqryjwC:
-    citations: 27
+    citations: 28
     title: 'Must Read: A Comprehensive Survey of Computational Persuasion'
     year: '2026'
   nJE1T2cAAAAJ:L8Ckcad2t8MC:
-    citations: 1
+    citations: 2
     title: 'Beyond Sample-Level Feedback: Using Reference-Level Feedback to Guide Data Synthesis'
     year: '2026'
   nJE1T2cAAAAJ:QIV2ME_5wuYC:
-    citations: 16
+    citations: 18
     title: Goal alignment in llm-based user simulators for conversational ai
     year: '2026'
   nJE1T2cAAAAJ:Se3iqnhoufwC:
-    citations: 4
+    citations: 5
     title: 'MultiSessionCollab: Learning User Preferences with Memory to Improve Long-Term Collaboration'
     year: '2026'
   nJE1T2cAAAAJ:UebtZRa9Y70C:
-    citations: 1
+    citations: 2
     title: Sparking Scientific Creativity via LLM-Driven Interdisciplinary Inspiration
     year: '2026'
   nJE1T2cAAAAJ:YOwf2qJgpHMC:
@@ -30,11 +30,11 @@ papers:
     title: 'PSI-Bench: Towards Clinically Grounded and Interpretable Evaluation of Depression Patient Simulators'
     year: '2026'
   nJE1T2cAAAAJ:dhFuZR0502QC:
-    citations: 38
+    citations: 39
     title: 'Persuade me if you can: A framework for evaluating persuasion effectiveness and susceptibility among large language models'
     year: '2026'
   nJE1T2cAAAAJ:kNdYIx-mwKoC:
-    citations: 3
+    citations: 4
     title: 'User preference modeling for conversational llm agents: Weak rewards from retrieval-augmented interaction'
     year: '2026'
   nJE1T2cAAAAJ:qUcmZB5y_30C:
