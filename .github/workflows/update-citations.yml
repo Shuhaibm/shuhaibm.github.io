@@ -1,10 +1,8 @@
 name: Update Google Scholar Citations
 
 on:
-  schedule:
-    - cron: "0 0 * * 1" # Monday
-    - cron: "0 0 * * 3" # Wednesday
-    - cron: "0 0 * * 5" # Friday
+  # Automatic updates are disabled because citation badges are not displayed.
+  # Keep workflow_dispatch so updates can still be run manually if re-enabled.
   workflow_dispatch:
 
 jobs:
