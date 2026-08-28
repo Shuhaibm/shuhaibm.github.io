@@ -27,12 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi 👋! I am a PhD Student at the University of Illinois Urbana-Champaign, advised by [Prof. Dilek Hakkani-Tur](https://scholar.google.com/citations?user=GMcL_9kAAAAJ).
+Hi 👋! I am a PhD Student at the University of Illinois Urbana-Champaign, advised by [Prof. Dilek Hakkani-Tur](https://scholar.google.com/citations?user=GMcL_9kAAAAJ). 
 
-I work on **user simulation**. Some recent highlights:
-- Introduced a method for measuring the distributional gap between real and simulated user behaviors, evaluated 24 LLM-based user simulators, and showed that combining behaviorally complementary ones narrows the gap [[paper]](https://arxiv.org/abs/2605.07847).
-- First to show that user simulators in widely used benchmarks (e.g., τ-Bench) do not reliably follow their assigned goals. We introduced user goal state tracking and trained goal-aligned simulators [[tweet]](https://x.com/ShuhaibMehri/status/1950232383380430902) [[paper]](https://arxiv.org/abs/2507.20152).
-  - Published in [TACL](https://transacl.org), oral presentation at [ACL 2026](https://2026.aclweb.org/).
-- Built a benchmark for multi-session collaboration, and used simulator behavior as an RL training signal for improving agent memory [[tweet]](https://x.com/ShuhaibMehri/status/2009307148644438517) [[paper]](https://arxiv.org/abs/2601.02702).
+I work on **user simulation** and **human-AI interaction**. Some recent highlights:
+- Measured the distributional gap between real and simulated user behaviors [[tweet]](https://x.com/shuhaibmehri/status/2053854963667796064?s=20) [[paper]](https://arxiv.org/abs/2605.07847).
+- Showed that user simulators in interactive benchmarks (e.g., τ-Bench) do not reliably follow their assigned goals. Introduced user goal state tracking and trained goal-aligned user simulators [[tweet]](https://x.com/ShuhaibMehri/status/1950232383380430902) [[paper]](https://arxiv.org/abs/2507.20152).
+- Built a benchmark for multi-session collaboration and leveraged user simulator feedback signals to train agent memory [[tweet]](https://x.com/ShuhaibMehri/status/2009307148644438517) [[paper]](https://arxiv.org/abs/2601.02702).
 
-I am super excited to simulate users at [Microsoft Research](https://www.microsoft.com/en-us/research/) this summer. Previously, I have interned at [IBM Research](https://research.ibm.com/), and [Amazon](https://www.amazon.science/) (x3).
+I interned at Microsoft Research, where I had the wonderful opportunity to work with [Michel Galley](https://www.microsoft.com/en-us/research/people/mgalley/) and [Jianfeng Gao](https://www.microsoft.com/en-us/research/people/jfgao/) from the [Deep Learning Group](https://www.microsoft.com/en-us/research/group/deep-learning-group/) and [Philippe Laban](https://tingofurro.github.io/) from the [AI Interaction and Learning Group](https://www.microsoft.com/en-us/research/group/ai-interaction-and-learning/). Before that, I have also interned at IBM Research, and Amazon (x3).
