@@ -27,11 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi 👋! I am a PhD Student at the University of Illinois Urbana-Champaign, advised by [Prof. Dilek Hakkani-Tur](https://scholar.google.com/citations?user=GMcL_9kAAAAJ). 
-
-I work on **user simulation** and **human-AI interaction**. Some recent highlights:
+Hi 👋! I am a PhD Student at the University of Illinois Urbana-Champaign, advised by [Prof. Dilek Hakkani-Tur](https://scholar.google.com/citations?user=GMcL_9kAAAAJ). I try to build AI that is useful to people in the real world, and my current research focuses on **user simulation**, which I believe to be an important part of the puzzle. Some recent highlights:
+- Identified user representations as a bottleneck in user simulation, and trained [UserRepGen-4B](https://huggingface.co/microsoft/UserRepGen-4B) to generate representations that lead to more faithful simulation [[paper]](https://arxiv.org/abs/2610.22518).
 - Measured the distributional gap between real and simulated user behaviors [[tweet]](https://x.com/shuhaibmehri/status/2053854963667796064?s=20) [[paper]](https://arxiv.org/abs/2605.07847).
-- Showed that user simulators in interactive benchmarks (e.g., τ-Bench) do not reliably follow their assigned goals. Introduced user goal state tracking and trained goal-aligned user simulators [[tweet]](https://x.com/ShuhaibMehri/status/1950232383380430902) [[paper]](https://arxiv.org/abs/2507.20152).
-- Built a benchmark for multi-session collaboration and leveraged user simulator feedback signals to train agent memory [[tweet]](https://x.com/ShuhaibMehri/status/2009307148644438517) [[paper]](https://arxiv.org/abs/2601.02702).
+- Built MultiSessionCollab, a benchmark for multi-session human--AI collaboration, and leveraged user simulators to train collaborative agents that use memory more effectively [[tweet]](https://x.com/ShuhaibMehri/status/2009307148644438517) [[paper]](https://arxiv.org/abs/2601.02702).
+- Showed that user simulators in interactive benchmarks (e.g., [τ-Bench](https://taubench.com/)) do not actually follow their assigned goals. Introduced user goal state tracking and trained goal-aligned user simulators [[tweet]](https://x.com/ShuhaibMehri/status/1950232383380430902) [[paper]](https://arxiv.org/abs/2507.20152).
 
-I interned at Microsoft Research, where I had the wonderful opportunity to work with [Michel Galley](https://www.microsoft.com/en-us/research/people/mgalley/) and [Jianfeng Gao](https://www.microsoft.com/en-us/research/people/jfgao/) from the [Deep Learning Group](https://www.microsoft.com/en-us/research/group/deep-learning-group/) and [Philippe Laban](https://tingofurro.github.io/) from the [AI Interaction and Learning Group](https://www.microsoft.com/en-us/research/group/ai-interaction-and-learning/). Before that, I also interned at IBM Research, and Amazon (x3).
+
+I interned at Microsoft Research, where I had the wonderful opportunity to work with [Michel Galley](https://www.microsoft.com/en-us/research/people/mgalley/) from the [Deep Learning Group](https://www.microsoft.com/en-us/research/group/deep-learning-group/) and [Philippe Laban](https://tingofurro.github.io/) from the [AI Interaction and Learning Group](https://www.microsoft.com/en-us/research/group/ai-interaction-and-learning/). Before that, I also interned at IBM Research, and Amazon (x3).
