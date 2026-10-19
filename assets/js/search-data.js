@@ -41,9 +41,6 @@ ninja.data = [{
       },{id: "news-i-was-awarded-the-mitacs-accelerate-fellowship-for-master-s-and-phd-students-as-an-undergrad-really-excited-to-start-working-with-iclinic-systems-inc",
           title: 'I was awarded the Mitacs Accelerate Fellowship for Master’s and PhD Students as...',
           description: "",
-          section: "News",},{id: "news-our-work-on-user-simulator-goal-alignment-has-been-accepted-to-tacl",
-          title: 'Our work on user simulator goal alignment has been accepted to TACL!',
-          description: "",
           section: "News",},{id: "news-came-full-circle-with-a-visit-to-the-ubc-nlp-group-where-my-research-journey-began-and-gave-a-talk-on-goal-alignment-for-llm-based-user-simulators",
           title: 'Came full circle with a visit to the UBC NLP Group (where my...',
           description: "",
@@ -56,22 +53,12 @@ ninja.data = [{
           section: "News",},{id: "news-️-taking-a-break-from-my-internship-at-microsoft-research-to-give-an-oral-at-acl-2026-on-goal-alignment-in-llm-based-user-simulators-for-conversational-ai",
           title: '✈️ Taking a break from my internship at Microsoft Research to give an...',
           description: "",
-          section: "News",},{id: "news-multisessioncollab-has-been-accepted-to-emnlp-2026",
-          title: 'MultiSessionCollab has been accepted to EMNLP 2026 🎉',
-          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
           window.open("mailto:%6D%65%73%6D.%73%68%75%68%61%69%62@%67%6D%61%69%6C.%63%6F%6D", "_blank");
-        },
-      },{
-        id: 'social-cv',
-        title: 'CV',
-        section: 'Socials',
-        handler: () => {
-          window.open("/assets/pdf/cv.pdf", "_blank");
         },
       },{
         id: 'social-scholar',
@@ -100,5 +87,12 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://twitter.com/ShuhaibMehri", "_blank");
+        },
+      },{
+        id: 'social-cv',
+        title: 'CV',
+        section: 'Socials',
+        handler: () => {
+          window.open("/assets/pdf/cv.pdf", "_blank");
         },
       },];
